@@ -1,6 +1,6 @@
 - Hi, my name is Gürkan Büyüktaş,
-- I’m interested in all kinds of coding,
-- I’m currently a student in IAOSB Nedim Uysal MTAL,
+- I’m interested in python,
+- I’m currently a student in İzmir Kâtip Çelebi Üniversitesi,
 - How to reach me: gurkan_buyuktas_ on ig.
 
 <!---
